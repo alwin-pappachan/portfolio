@@ -1,0 +1,5 @@
+day 1: 06/02/2025
+
+learn: learning how to design porfolio website
+learned html tags and css tags
+implement: not started
