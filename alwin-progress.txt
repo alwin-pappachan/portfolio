@@ -3,3 +3,15 @@ day 1: 06/02/2025
 learn: learning how to design porfolio website
 learned html tags and css tags
 implement: not startedd
+
+day 2: 07/02/2025
+
+learn: learned to add new different tags and also become familiar with git
+       how to push in git
+implement:coding startedd
+
+day 3: 08/02/2025
+
+learn: styles and images added
+implement : coding completed
+code pushed
