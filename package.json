@@ -1,0 +1,26 @@
+{
+  "name": "alwin-pappachan-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "dev:mobile": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "preview:mobile": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "framer-motion": "latest",
+    "lenis": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-icons": "latest",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "latest",
+    "tailwindcss": "latest"
+  }
+}
